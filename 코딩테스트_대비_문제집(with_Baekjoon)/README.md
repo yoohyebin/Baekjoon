@@ -25,27 +25,3 @@
 | 20 | Minimum Spanning Tree(MST) | 최소 스패닝 트리 | [바로가기](./minimum_spanning_tree) | 24 |
 | 21 | Trie | 트라이 | [바로가기](./trie) | 09 |
 | 22 | Dynamic Programming On Trees | 트리디피 | [바로가기](./dynamic_programming_on_trees) | 08 |
-
-1. [자료구조(Data Structure)](Data_Structure)
-2. [자료구조 2(Data Structure 2)](Data_Structure)
-3. [트리(Tree)](Data_Structure)
-4. [수학(Math)](Data_Structure)
-5. [탐욕법(Greedy)](Data_Structure)
-6. [동적계획법 1(Dynamic Programming 1)](Data_Structure)
-7. [동적계획법 2(Dynamic Programming 2)](Data_Structure)
-8. [투 포인터(Two Pointer)](Data_Structure)
-9. [구현(Implementation)](Data_Structure)
-10. [그래프 탐색(Graph Traversal)](Data_Structure)
-11. [완전탐색(Brute Force)](Data_Structure)
-12. [시뮬레이션(Simulation)](Data_Structure)
-13. [이분탐색(Binary Search)](Data_Structure)
-14. [백트래킹(Backtracking)](Data_Structure)
-15. [분할정복(Divide and conquer)](Data_Structure)
-16. [누적 합(Prefix Sum)](Data_Structure)
-17. [문자열(String)](Data_Structure)
-18. [최단거리(Shortest Path)](Data_Structure)
-19. [위상정렬(Topological Sorting)](Data_Structure)
-20. [분리 집합(Disjoint Set)](Data_Structure)
-21. [최소 스패닝 트리(Minimum Spanning Tree(MST))](Data_Structure)
-22. [트라이(Trie)](Data_Structure)
-23. [트리디피(Dynamic Programming On Trees)](Data_Structure)
