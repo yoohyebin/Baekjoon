@@ -1,3 +1,4 @@
+//28ms
 var stack = [Int]()
 for _ in 0..<Int(readLine()!)!{
     var input = readLine()!.split(separator: " ").map{String($0)}
