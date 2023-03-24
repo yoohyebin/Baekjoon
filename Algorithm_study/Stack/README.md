@@ -7,4 +7,4 @@
 | 6198 | [옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198) | [정답 코드](6198.swift)
 | 17298 | [오큰수](https://www.acmicpc.net/problem/17298) | [정답 코드](17298.swift)
 | 3015 | [오아시스 재결합](https://www.acmicpc.net/problem/3015) | [정답 코드](3015.swift)
-| [히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549) | [정답 코드](6549.swift)
+| 6549 | [히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549) | [정답 코드](6549.swift)
