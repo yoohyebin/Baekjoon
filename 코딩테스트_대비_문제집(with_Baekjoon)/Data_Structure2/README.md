@@ -1,7 +1,7 @@
 # Data Structre2 (자료구조2)
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/6779)
-|          순번                  문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
+|          순번          |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00  <a href="https://www.acmicpc.net/problem/1620" target="_blank">1620</a> | <a href="https://www.acmicpc.net/problem/1620" target="_blank">나는야 포켓몬 마스터 이다솜</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="1620.swift">바로가기</a> |
 | 01  <a href="https://www.acmicpc.net/problem/14425" target="_blank">14425</a> | <a href="https://www.acmicpc.net/problem/14425" target="_blank">문자열 집합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="14425.swift">바로가기</a> |
