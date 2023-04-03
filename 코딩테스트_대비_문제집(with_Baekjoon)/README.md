@@ -6,7 +6,7 @@
 | 01 | Data Structure 2 | 자료구조 2 | [바로가기](Data_Structure2) | 21 |
 | 02 | Tree | 트리 | [바로가기](Tree) | 44 |
 | 03 | Math | 수학 | [바로가기](Math) | 29 |
-| 04 | Greedy | 탐욕법 | [바로가기](./greedy) | 62 |
+| 04 | Greedy | 탐욕법 | [바로가기](Greedy) | 62 |
 | 05 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](Dynamic_Programming1) | 80 |
 | 06 | Dynamic Programming 2 | 동적계획법 2 | [바로가기](Dynamic_Programming2) | 81 |
 | 07 | Two Pointer | 투 포인터 | [바로가기](Two_Pointer) | 36 |
